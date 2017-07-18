@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "rudeGoldberg_buildOne.data.unityweb",
+"asmCodeUrl": "rudeGoldberg_buildOne.asm.code.unityweb",
+"asmMemoryUrl": "rudeGoldberg_buildOne.asm.memory.unityweb",
+"asmFrameworkUrl": "rudeGoldberg_buildOne.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
